@@ -1,0 +1,6 @@
+<meta>
+	<info author="BurakMrx" name="Güncelleme Bilgi" type="script" version="1.0" autostart="true" />
+	<download_priority_group>0</download_priority_group>
+           <script src="client.lua" type="client" cache="false"/>
+           <script src="server.lua" type="server"/>
+</meta>
